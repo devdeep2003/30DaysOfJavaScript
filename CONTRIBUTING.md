@@ -1,7 +1,7 @@
 # Contributing Guidelines
 
-This documentation contains a set of guidelines to help you during the contribution process.
-We are happy to welcome all the contributions from anyone willing to improve/add new scripts to this project.
+The documentation contains a set of guidelines to help you during the contribution process.
+We are happy to welcome all the contributors willing to improve/add new scripts to this project.
 Thank you for helping out and remember, **no contribution is too small.**
 
 
@@ -19,7 +19,7 @@ in case you are stuck:
 
 ## Submitting Contributions👩‍💻👨‍💻
 
-Below you will find the process and workflow used to review and merge your changes.
+Further Below , you will find the process and workflow applied to review and merge your changes.
 
 ### Step 0 : Find an issue
 
@@ -65,7 +65,7 @@ git checkout -b branch_name
 
 - Work on the issue(s) assigned to you.
 - Add all the files/folders needed.
-- After you've made changes or made your contribution to the project add changes to the branch you've just created by:
+- After you've made changes or made your contribution to the project , add changes to the branch you've just created by:
 
 ```bash  
 # To add all new files to branch Branch_Name  
@@ -76,7 +76,7 @@ git add <some files>
 
 ### Step 4 : Commit
 
-- To commit give a descriptive message for the convenience of reviewer by:
+- Before committing , give a descriptive message for the convenience of reviewer by:
 
 ```bash
 # This message get associated with all files you have changed  
@@ -87,7 +87,7 @@ git commit -m "message"
 
 ### Step 5 : Work Remotely
 
-- Now you are ready to your work to the remote repository.
+- Now you are ready to do your work/contribution with the remote repository of the forked project/repository.
 - When your work is ready and complies with the project conventions, upload your changes to your fork:
 
 ```bash  
@@ -101,7 +101,7 @@ git push -u origin Branch_Name
 
 ### Step 6 : Pull Request
 
-- Go to your repository in browser and click on compare and pull requests.
+- Go to your repository and click on compare and pull requests.
 Then add a title and description to your pull request that explains your contribution.  
 
 ![PR](https://user-images.githubusercontent.com/73248007/135501122-6d3bde84-5a50-4baf-8be7-80a4e9f9d51a.png)
